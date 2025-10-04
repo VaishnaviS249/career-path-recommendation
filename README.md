@@ -31,14 +31,9 @@ A machine learning-based web application built in **Google Colab** that predicts
 ## How to Run in Colab
 1. Open the Colab notebook containing the project.
 2. Make sure all dependencies are installed:
-
 !pip install streamlit pyngrok scikit-learn joblib
-
 3.Run the notebook cells sequentially:
   Train the model (or load pre-trained model files)
   Create the Streamlit app (app.py)
   Start the app using ngrok to get a public URL
 4.Open the public URL provided by ngrok to access the app.
-
-Author
-Vaishnavi S
